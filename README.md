@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Hagar Emad
 
-<!--
-**hajarg20/hajarg20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Flutter App Engineer | ✨ Passionate about AI & Technology
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Technologies
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![C++](https://img.shields.io/badge/c++-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+
+
+---
+
+## 📫 Connect with Me
+- 📧 Email: hajarghonim19@gmail.com 
+- 💼 LinkedIn: [linkedin.com/in/hagar-emad](#)  
+
+---
+
+⭐ **If you like my work, don’t forget to give a Star to my repositories!**
