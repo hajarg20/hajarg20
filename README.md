@@ -1,14 +1,14 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hagar+Emad+💙;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&color=FFB6C1&lines=Hi+There!+👋;+I'm+Hagar+Emad+💗;" />
 </div>
 
 ## 🙋‍♀️ About Me:
 
 - 💻 I’m a **Flutter App Developer || Software Engineer**.
-- 🤖 Passionate about **AI & Tech**.
-- 🌱 Currently improving my **Flutter + Supabase** Backend skills.
+- 🤖 Passionate about **AI & Technology**.
+- 🌱 Currently studying **Advanced Flutter** and working on creating **well-structured & user-centered UI/UX app experiences**.
 - 👯 Looking to collaborate on **Open Source Projects**.
-- 👨‍💻 All my projects are available here → **[My Repos](https://github.com/hajarg20?tab=repositories)**.
+- 👨‍💻 All my projects are available → **[My Repos](https://github.com/hajarg20?tab=repositories)**.
 
 <br>
 <div align="center">
@@ -56,15 +56,15 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/hagar-emad/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:hajarghonim19@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
+<img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=FFB6C1"/>
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-FF5C93?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
@@ -78,13 +78,12 @@
 ## 💜 Views & Followers:
 
 <a href="https://github.com/hajarg20/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=hajarg20">
+    <img src="https://komarev.com/ghpvc/?username=hajarg20&color=FFB6C1">
 </a>
 <a href="https://github.com/hajarg20?tab=followers">
     <img src="https://img.shields.io/github/followers/hajarg20?label=Followers&style=social" />
 </a>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+💙;Feel+free+to+connect!;Let's+build+something+amazing+✨">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&color=FFB6C1&lines=Thanks+for+visiting!+💗;Feel+free+to+connect!;Let's+build+something+amazing+✨">
 </h3>
-
