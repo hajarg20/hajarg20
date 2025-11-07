@@ -20,7 +20,7 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,python,cpp" />
-    <img src="https://skillicons.dev/icons?i=vscode,figma,postman,github" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,figma,postman" /><br>
     <img src="https://skillicons.dev/icons?i=git,colab" />
 </div>
 
