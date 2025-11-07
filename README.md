@@ -7,7 +7,6 @@
 - 💻 I’m a **Flutter App Developer || Software Engineer**.
 - 🤖 Passionate about **AI & Technology**.
 - 🌱 Currently studying **Advanced Flutter** and working on creating **well-structured & user-centered UI/UX app experiences**.
-- 👯 Looking to collaborate on **Open Source Projects**.
 - 👨‍💻 All my projects are available → **[My Repos](https://github.com/hajarg20?tab=repositories)**.
 
 <br>
