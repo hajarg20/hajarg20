@@ -54,7 +54,7 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/hagar-emad/" target="_blank">
+<a href="linkedin.com/in/hagar-emad-26a033231" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
